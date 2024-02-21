@@ -1,0 +1,9 @@
+{
+    "posts":[
+        {"id":1,"title":"this is a title."},
+        {"id":2,"title":"this is a title."}
+    ],
+    "comments":[
+        {"id":1,"title":"this is a title."}
+    ]
+}
